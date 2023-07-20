@@ -1,3 +1,6 @@
+// A)Create an application that obtains four int values from the
+// user and displays the product.
+// 
 using System;
 using System.Collections.Generic;
 using System.Linq;
